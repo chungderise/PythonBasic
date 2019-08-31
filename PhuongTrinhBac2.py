@@ -34,4 +34,4 @@ try:
     else:
         print("Phương trình không hợp lệ!")
 except Exception as e:
-    print("Nỗi nhập dữ liệu: " , str(e))
+    print("Nỗi nhập dữ liệu: " ,str(e))
